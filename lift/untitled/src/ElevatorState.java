@@ -1,0 +1,3 @@
+enum ElevatorState {
+    IDLE, MOVING, STOPPED, DOOR_OPEN, OUT_OF_SERVICE
+}
